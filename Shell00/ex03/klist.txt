@@ -1,0 +1,4 @@
+redentials cache: API:C045AD60-BC52-4E12-9FBD-52AC321B12D1
+        Principal: nrasooli@42.FR
+  Issued                Expires               Principal
+Jul  1 15:10:05 2019  Jul  8 15:09:55 2019  krbtgt/42.FR@42.FR
